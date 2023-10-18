@@ -1,0 +1,7 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,shalom,Male,north,bangalore,102@12,0
+1,10002,San,Male,west,mulund,abcd,1
+2,10003,prajakta,Female,west,thane,abcd,1
+3,10004,sam,Male,north,bangalore,abcd,1
+4,10005,sanju,Male,north,bengaluru,1234,1
+5,10006,sanju,Male,north,bengaluru,1234,1
